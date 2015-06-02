@@ -1,0 +1,11 @@
+(dp0
+V@invencible1347@nitramsolrac@sergio_jimenezp
+p1
+I10
+sS'@adriantomasa@dpasquale1@fjavier570515'
+p2
+I0
+sS'@gabrlelmleon'
+p3
+I-1
+s.

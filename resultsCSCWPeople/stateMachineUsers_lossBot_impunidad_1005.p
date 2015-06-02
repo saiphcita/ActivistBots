@@ -1,0 +1,17 @@
+(dp0
+S'chbr2011'
+p1
+I0
+sS'sejoniku'
+p2
+I0
+sS'bisshoop'
+p3
+I2
+sS'ponchoeljr'
+p4
+I0
+sS'hugorf_uc'
+p5
+I0
+s.

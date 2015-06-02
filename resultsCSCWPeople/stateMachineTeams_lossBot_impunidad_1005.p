@@ -1,0 +1,17 @@
+(dp0
+V@annaazul@marysioux@ponchoeljr
+p1
+I-1
+sV@chbr2011@serelpablo@taliilarsen
+p2
+I0
+sS'@betsyarreola@hugorf_uc@jsbriganti'
+p3
+I0
+sS'@likezabdy@nolackms@sejoniku'
+p4
+I0
+sS'@bisshoop@jcregales@regresiva1'
+p5
+I2
+s.

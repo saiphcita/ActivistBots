@@ -1,0 +1,42 @@
+(dp0
+S'bono9313'
+p1
+(dp2
+S'date'
+p3
+cdatetime
+datetime
+p4
+(S'\x07\xdf\x05\x1b\x13/1\x00\x00\x00'
+p5
+tp6
+Rp7
+sS'message'
+p8
+VRT @josmar68: Cuanta corrupcion en Gob.#Reynosafollow,oficinas de t.de visas/ taquerias a lado de auditorio colgados de @CFE_GolfoNte y en \u2026
+p9
+ssS'md_galdamez'
+p10
+(dp11
+g3
+g4
+(S'\x07\xdf\x05\x1b\x13/5\x00\x00\x00'
+p12
+tp13
+Rp14
+sg8
+VRT @julks1804: @SalvadorNasrala siga adelante con la lucha x una honduras sin corrupcion, no deje q le quiten la paz con sus tacticas sucia\u2026
+p15
+ssS'stefanysasso'
+p16
+(dp17
+g3
+g4
+(S'\x07\xdf\x05\x1b\x13/7\x00\x00\x00'
+p18
+tp19
+Rp20
+sg8
+VRT @Nanchinho: La corrupción llega al Estado Islámico: las listas para inmolarse están amañadas http://t.co/771yAQRo9x Son malos hasta para\u2026
+p21
+ss.

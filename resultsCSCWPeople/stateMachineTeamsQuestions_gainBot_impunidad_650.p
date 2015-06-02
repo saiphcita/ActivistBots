@@ -1,0 +1,11 @@
+(dp0
+S'@lic_miguelorea@masde131@orlandomuoz_1'
+p1
+I-1
+sV@chochomares@paisayupit@pmanzo70
+p2
+I-1
+sS'@mau_gdc'
+p3
+I0
+s.

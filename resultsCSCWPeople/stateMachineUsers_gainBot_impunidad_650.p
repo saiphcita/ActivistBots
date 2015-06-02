@@ -1,0 +1,11 @@
+(dp0
+S'pmanzo70'
+p1
+I0
+sS'mau_gdc'
+p2
+I0
+sS'orlandomuoz_1'
+p3
+I1
+s.

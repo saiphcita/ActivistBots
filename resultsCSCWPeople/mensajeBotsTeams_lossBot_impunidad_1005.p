@@ -1,0 +1,59 @@
+(dp0
+V@annaazul@marysioux@ponchoeljr
+p1
+(dp2
+S'idTweet'
+p3
+(lp4
+sS'mensaje'
+p5
+(lp6
+ssV@chbr2011@serelpablo@taliilarsen
+p7
+(dp8
+g3
+(lp9
+sg5
+(lp10
+ssS'@betsyarreola@hugorf_uc@jsbriganti'
+p11
+(dp12
+g3
+(lp13
+S'604087584998965248'
+p14
+asg5
+(lp15
+S'@betsyarreola @hugorf_uc @jsbriganti Bien! Y c\xc3\xb3mo usamos al pueblo para combatirla? Si no, caer\xc3\xa1 todo!'
+p16
+assS'@likezabdy@nolackms@sejoniku'
+p17
+(dp18
+g3
+(lp19
+S'604090582613417984'
+p20
+asg5
+(lp21
+S'@likezabdy @nolackms @sejoniku Bien! C\xc3\xb3mo combatir la corrupci\xc3\xb3n en nuestras Cds? El pa\xc3\xads si no, caer\xc3\xa1!'
+p22
+assS'@bisshoop@jcregales@regresiva1'
+p23
+(dp24
+g3
+(lp25
+S'604121963502702593'
+p26
+aS'604326576109572097'
+p27
+aS'604326765914427392'
+p28
+asg5
+(lp29
+S'@bisshoop @regresiva1 @jcregales Super! Y Tu qu\xc3\xa9 cambias para combatirla? Si no, nuestros hijos sufren!'
+p30
+aS'@bisshoop @regresiva1 @jcregales Bien! Y c\xc3\xb3mo usamos al pueblo para combatirla? Si no, caer\xc3\xa1 todo!'
+p31
+aS'@bisshoop @regresiva1 @jcregales Super! Y en todo el pa\xc3\xads, c\xc3\xb3mo combatirla? si no, caeremos!'
+p32
+ass.
